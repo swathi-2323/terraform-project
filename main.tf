@@ -81,3 +81,4 @@ resource "aws_ebs_volume" "six" {
   tags = {
     Name = "ebs-001"
   }
+}
