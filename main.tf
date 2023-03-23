@@ -72,7 +72,7 @@ resource "aws_s3_bucket" "four" {
 }
 
 resource "aws_iam_user" "five" {
-name = "user2" 
+name = "userp" 
 }
 
 resource "aws_ebs_volume" "six" {
